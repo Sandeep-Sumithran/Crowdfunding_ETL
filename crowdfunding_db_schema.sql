@@ -25,7 +25,7 @@ CREATE TABLE "subcategory" (
 
 CREATE TABLE "category" (
     "category_id" VARCHAR(50)   NOT NULL,
-    "subcategory" VARCHAR(50)   NOT NULL,
+    "category" VARCHAR(50)   NOT NULL,
     CONSTRAINT "pk_category" PRIMARY KEY (
         "category_id"
      )
@@ -33,7 +33,7 @@ CREATE TABLE "category" (
 
 CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
-    "conatact_id" INT   NOT NULL,
+    "contact_id" INT   NOT NULL,
     "company_name" VARCHAR(50)   NOT NULL,
     "description" VARCHAR(100)   NOT NULL,
     "goal" FLOAT   NOT NULL,
