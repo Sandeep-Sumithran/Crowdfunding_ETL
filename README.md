@@ -18,7 +18,7 @@ campaign.category_id references category.category_id
 campaign.subcategory_id references subcategory.subcategory_id
 
 ## Queries
-To view the data stored in the tables, you can execute the following queries:
+To view the data stored in the tables, you following queries can be executed:
 
 SELECT * FROM Campaign;: Retrieves all records from the campaign table.    
 SELECT * FROM Category;: Retrieves all records from the category table.    
