@@ -1,5 +1,6 @@
 # Crowdfunding_ETL
-Data Analytics Boot Camp Project 2
+Data Analytics Boot Camp Project 2.    
+Sandeep Sumithran, Tattwamasi Ray, Owen Johannes
 
 ## Tables
 The database consists of the following tables:
