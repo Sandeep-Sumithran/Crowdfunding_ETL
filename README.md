@@ -43,7 +43,6 @@ Import each CSV file into its corresponding SQL table.
 Verify that each table has the correct data by running a SELECT statement for each.
 
 Built With:
-Built With
 Python
 Pandas
 PostgreSQL
